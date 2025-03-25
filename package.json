@@ -1,6 +1,6 @@
 {
   "name": "node-syphon-electron-example",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "An Electron application to run Syphon servers and clients.",
   "license": "GPL-3.0+",
   "main": "./out/main/index.js",
