@@ -3795,10 +3795,10 @@ node-releases@^2.0.19:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.19.tgz#9e445a52950951ec4d177d843af370b411caf314"
   integrity sha512-xxOWJsBKtzAq7DY0J+DTzuz58K8e7sJbdgwkbMWQe8UYB6ekmsQ45q0M/tJDsGaZmbC+l7n57UV8Hl5tHxO9uw==
 
-node-syphon@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/node-syphon/-/node-syphon-1.2.1.tgz#f2568e951f773221683a7b0decfc386409c02fc5"
-  integrity sha512-Kb9NjxN6NLhD1k/b6rxP628s/ZlxQ7sUVjWIwGKIsbZP4yhi0o1eiG5EjNIeN6uXhMEPW+qtxSSEbY1tQGDIOA==
+node-syphon@^1.2.3:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/node-syphon/-/node-syphon-1.2.3.tgz#c18bf9f02cc0499996482a15a659e2f8bc609983"
+  integrity sha512-WS8igExCYIv9Ku0ZciDpA4qBiBc3Pdx2uJnw28LVTtzkGNSSRMILm6gDnL2LpY4GIZxTgAC5whnh5e6zAbloWw==
   dependencies:
     bindings "^1.5.0"
 
